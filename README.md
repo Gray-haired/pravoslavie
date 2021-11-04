@@ -1,3 +1,3 @@
 # pravoslavie
 
-Hello-world!
+Hello- world!
